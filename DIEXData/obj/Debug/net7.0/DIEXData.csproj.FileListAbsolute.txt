@@ -1,0 +1,12 @@
+D:\dotnet\Dependency\DIEXData\bin\Debug\net7.0\DIEXData.deps.json
+D:\dotnet\Dependency\DIEXData\bin\Debug\net7.0\DIEXData.dll
+D:\dotnet\Dependency\DIEXData\bin\Debug\net7.0\DIEXData.pdb
+D:\dotnet\Dependency\DIEXData\obj\Debug\net7.0\DIEXData.csproj.AssemblyReference.cache
+D:\dotnet\Dependency\DIEXData\obj\Debug\net7.0\DIEXData.GeneratedMSBuildEditorConfig.editorconfig
+D:\dotnet\Dependency\DIEXData\obj\Debug\net7.0\DIEXData.AssemblyInfoInputs.cache
+D:\dotnet\Dependency\DIEXData\obj\Debug\net7.0\DIEXData.AssemblyInfo.cs
+D:\dotnet\Dependency\DIEXData\obj\Debug\net7.0\DIEXData.csproj.CoreCompileInputs.cache
+D:\dotnet\Dependency\DIEXData\obj\Debug\net7.0\DIEXData.dll
+D:\dotnet\Dependency\DIEXData\obj\Debug\net7.0\refint\DIEXData.dll
+D:\dotnet\Dependency\DIEXData\obj\Debug\net7.0\DIEXData.pdb
+D:\dotnet\Dependency\DIEXData\obj\Debug\net7.0\ref\DIEXData.dll
